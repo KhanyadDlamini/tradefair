@@ -1,1 +1,1 @@
-export const CONFIG = "https://tradeb-gpan.onrender.com:5000";
+export const CONFIG = "https://tradeb-gpan.onrender.com";
