@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Trade Fair Registration",
-  description: "Register for the 2025 Trade Fair event.",
+  title: "Trade Fair 2025 schedule",
+  description: "A curated list of the best trade fairs around the world.",
 };
 
 export default function RootLayout({ children }) {
